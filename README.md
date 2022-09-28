@@ -2,6 +2,8 @@
 
 Temas de gráficos personalizados para seguir a identididade visual do [geleiadementa.com](https://geleiadementa.com)
 
+👉 **fonte usada: [Iosevka](https://typeof.net/Iosevka/)**
+
 ## Matplotlib: 
 
 **Instruções:** coloco o arquivo [matplotlibrc](https://github.com/geleiadementa/data-viz-themes/blob/main/matplotlib/matplotlibrc) em ~/.config/matplotlib/
